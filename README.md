@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hello, I'm SizerSoft<br>- 👀 I do PHP and JS-heavy development<br>- 💞️ I am open to business deals.
+- 👋 Hello, I'm SizerSoft<br> 👀 I do PHP and JS-heavy development<br> 💞️ I am open to business deals.
 
 
 ## 🌐 Socials:
